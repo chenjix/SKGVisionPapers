@@ -21,3 +21,7 @@ Collection of papers related to Visual Structured Knowledge Grouding
 5. **A large-scale dataset for end-to-end table recognition in the wild.**
 
    *Fan Yang, Lei Hu, Xinwu Liu, Shuangping Huang, Zhenghui Gu* [[pdf](https://arxiv.org/abs/2303.14884)], 2023.3
+
+6. **[[Donut]]** **OCR-free Document Understanding Transformer.**
+
+   *Geewook Kim, Teakgyu Hong, Moonbin Yim, Jeongyeon Nam, Jinyoung Park, Jinyeong Yim, Wonseok Hwang, Sangdoo Yun, Dongyoon Han, Seunghyun Park* [[pdf](https://arxiv.org/abs/2111.15664)], 2021.11
