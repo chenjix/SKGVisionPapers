@@ -1,2 +1,7 @@
 # SKGVisionPapers
-Visual Structured Knowledge Grouding Paperlist
+Collection of papers related to Visual Structured Knowledge Grouding
+
+## Papers
+1. **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models.** 
+
+    *Tianbao Xie, Chen Henry Wu, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida I. Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, Tao Yu*  [[pdf](https://arxiv.org/abs/2201.05966)], 2022.1
